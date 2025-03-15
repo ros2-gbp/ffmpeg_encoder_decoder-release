@@ -1,8 +1,0 @@
-ros-humble-ffmpeg-encoder-decoder (1.0.1-2jammy) jammy; urgency=high
-
-  * initial commit
-  * Contributors: Bernd Pfrommer
-
- -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Fri, 30 Aug 2024 04:00:00 -0000
-
-
