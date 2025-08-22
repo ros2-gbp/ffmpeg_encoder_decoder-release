@@ -2,6 +2,11 @@
 Changelog for package ffmpeg_encoder_decoder
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.1 (2025-08-22)
+------------------
+* new CI workflow
+* Contributors: Bernd Pfrommer
+
 3.0.0 (2025-08-08)
 ------------------
 * added utility functions for splitting
