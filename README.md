@@ -1,3 +1,26 @@
+## ffmpeg_encoder_decoder (jazzy) - 3.0.1-1
+
+The packages in the `ffmpeg_encoder_decoder` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy ffmpeg_encoder_decoder` on `Fri, 22 Aug 2025 12:39:25 -0000`
+
+The `ffmpeg_encoder_decoder` package was released.
+
+Version of package(s) in repository `ffmpeg_encoder_decoder`:
+
+- upstream repository: https://github.com/ros-misc-utilities/ffmpeg_encoder_decoder.git
+- release repository: https://github.com/ros2-gbp/ffmpeg_encoder_decoder-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.1-1`
+- new version: `3.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ffmpeg_encoder_decoder (humble) - 3.0.1-1
 
 The packages in the `ffmpeg_encoder_decoder` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble ffmpeg_encoder_decoder` on `Fri, 22 Aug 2025 12:37:05 -0000`
